@@ -2,7 +2,7 @@
 
 This repository contains the code and the final research report for the **Neurocomputing** university project. The objective of this work is to apply binary semantic segmentation to aerial forest imagery to identify birch trees, supporting emergency landing site assessments for aviation.
 
-📄 **[Read the full Project Report (PDF)](./Project_Report.pdf)**
+📄 **[Read the full Project Report (PDF)](./12552782_Franco_12547146_Borges.pdf)**
 
 ## 🧠 Project Overview
 Reliably identifying tree-covered regions versus potentially open terrain is safety-critical for emergency landings. This project systematically evaluates different Convolutional Neural Network (CNN) architectures to perform pixel-level classification of aerial images, distinguishing birch trees (obstacles) from the background.
